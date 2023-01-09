@@ -23,5 +23,5 @@ const ExpensesFilter = (props) => {
     </div>
   );
 };
-//tat
+
 export default ExpensesFilter;
